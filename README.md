@@ -50,7 +50,7 @@ I love the entire process of developing creative websites and i`m open to contri
 <a href="#"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 <a href="#"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 <a href="#"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> </a> -->
+<a href="#"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> </a> 
 
 
 ## 📝 Latest Blog Posts
@@ -60,5 +60,5 @@ I love the entire process of developing creative websites and i`m open to contri
 
 ## 📈 GitHub Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Esraa-shamaa&layout=compact)](https://github.com/Eng-Esraa-shamaa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Esraa-shamaa&layout=compact)](https://github.com/Eng-Esraa-shamaa)-->
 
